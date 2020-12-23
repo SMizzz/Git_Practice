@@ -58,11 +58,11 @@
 			children = (
 				0214F7AA25938DBF003AE75D /* AppDelegate.swift */,
 				0214F7AC25938DBF003AE75D /* SceneDelegate.swift */,
+				0214F7C025938DCF003AE75D /* MainViewController.swift */,
 				0214F7B025938DC0003AE75D /* Assets.xcassets */,
 				0214F7B525938DC0003AE75D /* LaunchScreen.storyboard */,
 				0214F7B825938DC0003AE75D /* Info.plist */,
 				0214F7B225938DC0003AE75D /* Preview Content */,
-				0214F7C025938DCF003AE75D /* MainViewController.swift */,
 			);
 			path = Git_Practice;
 			sourceTree = "<group>";
